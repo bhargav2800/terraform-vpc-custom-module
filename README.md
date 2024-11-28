@@ -1,5 +1,7 @@
 # terraform-aws-vpc
 
+## Published module : https://registry.terraform.io/modules/bhargav2800/custom-module/vpc/latest
+
 ## Overview
 
 This Terraform module creates an AWS VPC with a given CIDR block. It also creates multiple subnets (public and private), and for public subnets, it sets up an Internet Gateway(IGW) and appropriate route tables.
